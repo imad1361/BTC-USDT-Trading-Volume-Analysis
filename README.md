@@ -30,7 +30,6 @@ python main.py
 
 ![day wise volume](https://github.com/user-attachments/assets/cf16f4bf-af78-4d1a-9f95-f0e381b43bd7)
 
-This shows the best stop loss and take profit for BTC perpetuals for 1 month. You can change the asset from BTC to your desired one, modify the time frame, and adjust the RSI upper and lower limits to experiment with different values and optimize the strategy.
 
 ```
 
@@ -39,11 +38,6 @@ This project is intended for educational purposes only. The author is not respon
 
 ## License
 This project is open-source and available under the MIT License.
-
----
-
-Would you like to add a live GitHub Pages site for hosting additional visualizations?
-
 
 License
 
