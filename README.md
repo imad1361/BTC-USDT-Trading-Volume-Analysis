@@ -21,7 +21,7 @@ pip install pandas ccxt numpy matplotlib
 ## Usage
 Run the script using Python:
 ```bash
-python trading_volume_analysis.py
+python main.py
 ```
 
 ### Result Visualization
